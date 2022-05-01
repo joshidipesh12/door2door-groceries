@@ -46,10 +46,6 @@ If you are interested in contributing and commercial use of the app UI, remember
 
 - Android SDK & Android Studio
 
-  ```sh
-  npm install npm@latest -g
-  ```
-
 - react-native-cli
 
   ```sh
@@ -90,7 +86,7 @@ If you are interested in contributing and commercial use of the app UI, remember
 
 - [✔️] App Design
 - [✔️] UI+UX with Neact-Native
-- [ ] App BackEnd
+- [❌] App BackEnd
 
 See the [open issues](https://github.com/joshidipesh12/door2door-groceries/issues) for a full list of proposed features (and known issues).
 
