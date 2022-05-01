@@ -17,7 +17,9 @@
 
 ## About The Project
 
-[![Project Screen Shot][product-screenshot]](https://dtodservice.com)
+<p align="center">
+  <img src="images/screenshot.png" width="100%" />
+</p>
 
 ### Built With
 
@@ -87,9 +89,8 @@ If you are interested in contributing and commercial use of the app UI, remember
 ## Roadmap
 
 - [✔️] App Design
-- [✔️] UI+UX with Neact-Native 
-- [   ] App BackEnd
-
+- [✔️] UI+UX with Neact-Native
+- [ ] App BackEnd
 
 See the [open issues](https://github.com/joshidipesh12/door2door-groceries/issues) for a full list of proposed features (and known issues).
 
@@ -151,4 +152,3 @@ Project Link: [https://github.com/joshidipesh12/door2door-groceries](https://git
 [license-url]: https://github.com/joshidipesh12/door2door-groceries/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshidipesh12
-[product-screenshot]: images/screenshot.png
