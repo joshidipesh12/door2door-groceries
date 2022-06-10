@@ -1,3 +1,7 @@
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <h3 align="center">Door2Door Groceries</h3>
@@ -13,12 +17,8 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
 <p align="center">
-  <img src="images/screenshot.png" width="100%" />
+  <img src="images/screenshot.png" width="100%"  style="border-radius: 50px;" />
 </p>
 
 ### Built With
